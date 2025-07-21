@@ -1,0 +1,25 @@
+# Node modules (all dependencies)
+node_modules/
+
+# Cypress screenshots & videos (auto-generated)
+cypress/screenshots/
+cypress/videos/
+
+# Logs and system files
+*.log
+
+# Environment config (optional)
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Reports or coverage folders if generated
+coverage/
+allure-results/
