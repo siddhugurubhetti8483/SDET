@@ -89,7 +89,7 @@ project-root/
 
 Total **6** bugs were identified and documented in the Bug Report file. These were UI/UX and functional bugs encountered during manual & automation testing.
 
- Refer: `/docs/Bug_Summary_Qafox.xlsx`
+ Refer: `/docs/CW_Test_Cases_&_Bugs.xlsx`
 
 ---
 
@@ -111,14 +111,15 @@ Total **6** bugs were identified and documented in the Bug Report file. These we
 ##  Important Links
 
 -  **Live Site**: https://tutorialsninja.com/demo/
--  **Google Drive Folder**: [View Docs](#)
--  **GitHub Repo**: [Your GitHub Link Here](#)
+-  **Google Drive Folder**: https://drive.google.com/drive/folders/1jeNCd8_FLp_1BMDe8ri0-dmHcUcfAawj?usp=sharing
+
+-  **GitHub Repo**: https://github.com/siddhugurubhetti8483/SDET
 
 ---
 
 ##  Author
 
-**Name**: Your Full Name
-**Masai ID**: B46SDETxxx
-**Email**: yourname@gmail.com
+**Name**: Siddhu gurubhetti
+**Masai ID**: FS41_430601
+**Email**:
 ```
